@@ -7,14 +7,12 @@ Below are the few way to integrate bootcach in your project.
 
 ### Via Pre-compiled Asset
 
-Download 'bootstrap.css or bootstrap.min.css' file associated with theme and replace it
-with bootstrap default stylesheet.
-And don't forget add bootstrap optional dependencies like, js file etc.
+Download `bootstrap.css` or `bootstrap.min.css` file associated with theme and replace it
+with bootstrap default stylesheet and don't forget to add bootstrap optional dependencies like, js file etc.
 
 ### Via CDN
 
-Similar to above, but you can hotlink to the appropriate `bootstrap.min.css`
-hosted on [BootstrapCDN](https://www.bootstrapcdn.com/bootswatch/).
+You can also use cdn ( content delivery network ) - hosted on  [BootcatchCDN](https://www.bootstrapcdn.com/bootcatch/).
 
 ## Author
 
