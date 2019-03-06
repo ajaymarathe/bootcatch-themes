@@ -1,2 +1,2 @@
 # Bootcatch
-Free customized bootstrap themes for all bootstrap lover's
+Free customized bootstrap themes for bootstrap lover's
