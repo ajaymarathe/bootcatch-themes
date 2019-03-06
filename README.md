@@ -16,7 +16,7 @@ with bootstrap default stylesheet and don't forget to add bootstrap optional dep
 
 ### Via CDN
 
-You can also use cdn ( content delivery network ) - hosted on  [BootstrapCDN](https://www.bootstrapcdn.com/bootcatch/).
+You can also use cdn ( content delivery network ) - hosted on  [BootcatchCDN](https://www.bootstrapcdn.com/bootcatch/).
 
 ## Author
 
