@@ -1,9 +1,13 @@
 # Bootcatch
-Free customized bootstrap themes for bootstrap lover's
+Free customized bootstrap themes for bootstrap lover's <3
 
 ## Usage
 
 Below are the few way to integrate bootcach in your project.
+
+### Clone
+
+Just clone the whole project - `git clone https://github.com/ajaymarathe/Bootcatch.git`
 
 ### Via Pre-compiled Asset
 
@@ -12,7 +16,7 @@ with bootstrap default stylesheet and don't forget to add bootstrap optional dep
 
 ### Via CDN
 
-You can also use cdn ( content delivery network ) - hosted on  [BootcatchCDN](https://www.bootstrapcdn.com/bootcatch/).
+You can also use cdn ( content delivery network ) - hosted on  [BootstrapCDN](https://www.bootstrapcdn.com/bootcatch/).
 
 ## Author
 
