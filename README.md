@@ -1,4 +1,9 @@
 # Bootcatch
+
+
+[![Bootcatch Logo](http://www.bootcatch.com/bootcatch-themes.png)](http://www.bootcatch.com)
+
+
 Free customized bootstrap themes for bootstrap lover's <3
 
 ## Usage
