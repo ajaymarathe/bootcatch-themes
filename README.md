@@ -1,4 +1,9 @@
 # Bootcatch
+
+
+[![Bootcatch Logo](http://www.bootcatch.com/bootcatch-themes.png)](http://www.bootcatch.com)
+
+
 Free customized bootstrap themes for bootstrap lover's <3
 
 ## Usage
@@ -14,9 +19,6 @@ Just clone the whole project - `git clone https://github.com/ajaymarathe/Bootcat
 Download `bootstrap.css` or `bootstrap.min.css` file associated with theme and replace it
 with bootstrap default stylesheet and don't forget to add bootstrap optional dependencies like, js file etc.
 
-### Via CDN
-
-You can also use cdn ( content delivery network ) - hosted on  [BootcatchCDN](https://www.bootstrapcdn.com/bootcatch/).
 
 ## Author
 
