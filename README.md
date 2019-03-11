@@ -19,9 +19,6 @@ Just clone the whole project - `git clone https://github.com/ajaymarathe/Bootcat
 Download `bootstrap.css` or `bootstrap.min.css` file associated with theme and replace it
 with bootstrap default stylesheet and don't forget to add bootstrap optional dependencies like, js file etc.
 
-### Via CDN
-
-You can also use cdn ( content delivery network ) - hosted on  [BootcatchCDN](https://www.bootstrapcdn.com/bootcatch/).
 
 ## Author
 
