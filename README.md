@@ -1,5 +1,5 @@
 # Bootcatch
-[!license-badge](https://img.shields.io/badge/license-MIT-blue.svg)]
+[[!license-badge](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ajaymarathe/Bootcatch/blob/master/LICENSEm)
 
 [![Bootcatch Logo](http://www.bootcatch.com/bootcatch-themes.png)](http://www.bootcatch.com)
 
