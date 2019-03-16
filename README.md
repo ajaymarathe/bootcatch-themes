@@ -6,19 +6,19 @@ Free customized bootcatch themes for bootstrap lover's <3 - is based on world mo
 
 Hope it will help you a lot.
 
-## Usage
+## Usage:
 
 Below are the few way to integrate bootcatch in your project.
 
-## Clone
+## Clone:
 
 Just clone the whole repository - `git clone https://github.com/ajaymarathe/Bootcatch.git`
 
-## Via Pre-compiled Asset
+## Via Pre-compiled Asset:
 
 Download `bootstrap.css` or `bootstrap.min.css` file associated with the theme and replace it with bootstrap default stylesheet and don't forget to add bootstrap optional dependencies like js file etc
 
-### What's included
+### What's included:
 
 Within the download you'll find the following directories and files:
 
