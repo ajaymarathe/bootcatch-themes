@@ -8,7 +8,7 @@ Hope it will help you a lot.
 
 ## Usage
 
-Below are the few way to integrate bootcach in your project.
+Below are the few way to integrate bootcatch in your project.
 
 ## Clone
 
