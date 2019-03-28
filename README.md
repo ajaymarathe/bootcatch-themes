@@ -14,7 +14,7 @@ Below are the few way to integrate bootcatch in your project.
 
 Just clone the whole repository - `git clone https://github.com/ajaymarathe/Bootcatch.git`
 
-## compiled Asset:
+## Compiled Asset:
 
 Download `bootstrap.css` or `bootstrap.min.css` file associated with the theme and replace it with bootstrap default stylesheet and don't forget to add bootstrap optional dependencies like js file etc
 
