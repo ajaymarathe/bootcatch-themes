@@ -1,4 +1,4 @@
-# Bootcatch
+# Bootcatch-Themes
 
 [![Bootcatch Logo](http://www.bootcatch.com/bootcatch-themes.png)](http://www.bootcatch.com)
 
@@ -10,7 +10,7 @@ Hope it will help you a lot.
 
 Below are the few way to integrate bootcatch in your project.
 
-## Clone:
+## Clone the Repository -
 
 Just clone the whole repository - `git clone https://github.com/ajaymarathe/Bootcatch.git`
 
@@ -43,5 +43,4 @@ Ajay Marathe
 
 ## Copyright and License
 
-- Copyright 2019 Ajay Marathe
-- Code released under the MIT License.
+Copyright 2019 [Ajay Marathe](https://github.com/ajaymarathe). Code released under the [MIT](https://github.com/ajaymarathe/Bootcatch-Themes/blob/master/LICENSE) license.
