@@ -1,6 +1,6 @@
 # bootcatch-themes
 
-[![Bootcatch Logo](http://www.bootcatch.com/bootcatch-themes.png)](http://www.bootcatch.com)
+[![Bootcatch Logo](http://preview.bootcatch.com/bootcatch-clean-blog/img/bootcatch-free-themes.png)](http://www.bootcatch.com)
 
 Free customized bootcatch themes for bootstrap lover's <3 - is based on world most popular framework Bootstrap. which has different styles and layouts like buttons, cards, forms, navbar, modal, tables, dropdown, and all features.
 
