@@ -46,6 +46,40 @@ textarea,
   box-shadow: none !important;
 }
 
+.btn {
+  position: relative;
+  overflow: hidden;
+  -webkit-transform: translate3d(0, 0, 0);
+          transform: translate3d(0, 0, 0);
+}
+
+.btn:after {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  pointer-events: none;
+  background-image: radial-gradient(circle, #000 10%, transparent 10.01%);
+  background-repeat: no-repeat;
+  background-position: 50%;
+  -webkit-transform: scale(10, 10);
+          transform: scale(10, 10);
+  opacity: 0;
+  transition: opacity 1s, -webkit-transform 0.5s;
+  transition: transform 0.5s, opacity 1s;
+  transition: transform 0.5s, opacity 1s, -webkit-transform 0.5s;
+}
+
+.btn:active:after {
+  -webkit-transform: scale(0, 0);
+          transform: scale(0, 0);
+  opacity: 0.2;
+  transition: 0s;
+}
+
 /*!
  * Bootstrap v4.3.1 (https://getbootstrap.com/)
  * Copyright 2011-2019 The Bootstrap Authors
