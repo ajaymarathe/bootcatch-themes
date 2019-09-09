@@ -10,11 +10,11 @@ Hope it will help you a lot.
 
 Below are the few way to integrate bootcatch in your project.
 
-## NPM Install
+### NPM Install
 
 `npm i bootcatch-themes`
 
-## Clone the Repository -
+### Clone the Repository -
 
 Just clone the whole repository - `git clone https://github.com/ajaymarathe/bootcatch-themes.git`
 
