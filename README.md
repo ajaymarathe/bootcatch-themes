@@ -28,7 +28,7 @@ Below are the few way to integrate bootcatch in your project.
 
     `//import in main file`
 
-3) `import "../node_modules/bootcatch-themes/dist/orangely/bootstrap.min.css`
+3) `import "bootcatch-themes/dist/orangely/bootstrap.min.css`
 
 
 ### Clone the Repository -
