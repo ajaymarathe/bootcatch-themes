@@ -14,13 +14,22 @@ Below are the few way to integrate bootcatch in your project.
 
 1 ) `npm i bootcatch-themes`
 
-2 ) `@import "~bootcatch-themes/dist/orangely/bootstrap.min.css";`
+`// import in css file`
 
-`@import "~bootcatch-themes/dist/theme-name/css-file";`
+2 ) `@import "~bootcatch-themes/dist/orangely/bootstrap.min.css";`
+  
+    `// example`
+
+    `@import "~bootcatch-themes/dist/theme-name/css-file";`
 
 - or you give correct whole path from node moduels.
 
 2 ) `@import "../node_modules/bootcatch-themes/dist/orangely/bootstrap.min.css";`
+
+`// import in main file`
+
+3) `import "../node_modules/bootcatch-themes/dist/orangely/bootstrap.min.css`
+
 
 ### Clone the Repository -
 
