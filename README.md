@@ -20,15 +20,18 @@ Below are the few way to integrate bootcatch in your project.
   
     `//example`
 
-    `@import "~bootcatch-themes/dist/theme-name/css-file";`
+    `@import "~bootcatch-themes/dist/<theme-name>/<css-file>";`
 
 - or you give correct whole path from node moduels.
 
-2 ) `@import "../node_modules/bootcatch-themes/dist/orangely/bootstrap.min.css";`
+2 ) ```
+    @import "../node_modules/bootcatch-themes/dist/orangely/bootstrap.min.css";
+    ```
 
-    `//import in main file`
-
-3) `import "bootcatch-themes/dist/orangely/bootstrap.min.css`
+3) ```js 
+    //*In Vue main.js file
+    import "bootcatch-themes/dist/orangely/bootstrap.min.css 
+   ```
 
 
 ### Clone the Repository -
@@ -43,7 +46,7 @@ Download `bootstrap.css` or `bootstrap.min.css` file associated with the theme a
 
 Within the download you'll find the following directories and files:
 
-```
+```html
 dist/
 ├──MATERIAL/ 
 |  ├── Bootstrap.css
