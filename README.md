@@ -14,9 +14,20 @@ Hope it will help you a lot.
 
 Below are the few way to integrate bootcatch in your project.
 
+### CDN - content delivery network
+
+```js
+//add this cdn in your html head.
+<link rel="stylesheet" href="https://unpkg.com/bootcatch-themes@1.4.0/dist/orangely/bootstrap.min.css"  />
+
+//change the theme name your css will get changed.
+//<link rel="stylesheet" href="https://unpkg.com/bootcatch-themes@<version>/dist/<theme-name>/bootstrap.min.css"  />
+```
+
 ### Use in Html Project
 
-```//download the css and place it on right path e.g 
+```js
+ //download the css and place it on right path e.g 
  <link rel="stylesheet" type="text/css" href="<you project path>/css/orangely.min.css">
  ```
 
