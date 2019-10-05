@@ -52,7 +52,11 @@ Below are the few way to integrate bootcatch in your project.
 
 ### Clone the Repository -
 
-Just clone the whole repository - `git clone https://github.com/ajaymarathe/bootcatch-themes.git`
+```js
+//Just clone the whole repository -
+
+git clone https://github.com/ajaymarathe/bootcatch-themes.git
+```
 
 ## Compiled Asset:
 
