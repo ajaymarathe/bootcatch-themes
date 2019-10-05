@@ -6,32 +6,48 @@ Free customized bootcatch themes for bootstrap lover's <3 - is based on world mo
 
 Hope it will help you a lot.
 
+## NPM Install
+
+`npm i bootcatch-themes`
+
 ## Usage:
 
 Below are the few way to integrate bootcatch in your project.
 
-### NPM Install
+### Use in Html Project
 
-1 ) `npm i bootcatch-themes`
+```//download the css and place it on right path e.g 
+ <link rel="stylesheet" type="text/css" href="<you project path>/css/orangely.min.css">
+ ```
 
-    `//import in css file`
-
-2 ) `@import "~bootcatch-themes/dist/orangely/bootstrap.min.css";`
-  
-    `//example`
-
-    `@import "~bootcatch-themes/dist/<theme-name>/<css-file>";`
-
-- or you give correct whole path from node moduels.
-
-2 ) ```
-    @import "../node_modules/bootcatch-themes/dist/orangely/bootstrap.min.css";
-    ```
-
-3) ```js 
-    //*In Vue main.js file
-    import "bootcatch-themes/dist/orangely/bootstrap.min.css 
+### Use in Vue.js.
+ ```js 
+  //In Vue main.js file
+  import Vue from "vue";
+  import "bootcatch-themes/dist/orangely/bootstrap.min.css; 
+   
    ```
+    
+### Use in Angular.
+
+```js
+  //import in style.scss file
+
+  @import "bootcatch-themes/dist/orangely/bootstrap.min.css";
+
+ //@import "~bootcatch-themes/dist/<theme-name>/<css-file>"; 
+ ```
+
+### Use in React.
+
+ ```js
+    import React from 'react';
+    import ReactDOM from 'react-dom';
+ 
+    //import in your main file e.g index.js file 
+ 
+    import "bootcatch-themes/dist/orangely/bootstrap.min.css";
+ ```
 
 
 ### Clone the Repository -
@@ -40,7 +56,7 @@ Just clone the whole repository - `git clone https://github.com/ajaymarathe/boot
 
 ## Compiled Asset:
 
-Download `bootstrap.css` or `bootstrap.min.css` file associated with the theme and replace it with bootstrap default stylesheet and don't forget to add bootstrap optional dependencies like js file etc
+Download `bootstrap.css` or `bootstrap.min.css` file associated with the theme and replace it with bootstrap default stylesheet and don't forget to add bootstrap optional dependencies like js file `e.g bootstrap.min.js, jquery & popper.js` etc
 
 ### What's included:
 
@@ -57,6 +73,8 @@ dist/
 -//- Same structure for all themes.
 
 ```
+## Live Priview
+- [Bootcatch](http://bootcatch.com)
 
 ## Author
 
