@@ -1,5 +1,8 @@
 # bootcatch-themes
 
+
+[![NPM](https://img.shields.io/npm/v/bootcatch-themes.svg)](https://www.npmjs.com/package/bootcatch-themes)  [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+
 [![Bootcatch Logo](https://raw.githubusercontent.com/ajaymarathe/image-store/master/bootcatch/bootcatch.png)](http://bootcatch.com/)
 
 Free customized bootcatch themes for bootstrap lover's <3 - is based on world most popular framework Bootstrap. which has different styles and layouts like buttons, cards, forms, navbar, modal, tables, dropdown, and all features.
