@@ -11,7 +11,9 @@ Hope it will help you a lot.
 
 ## NPM Install
 
-`npm i bootcatch-themes`
+```js
+npm i bootcatch-themes
+```
 
 ## Usage:
 
