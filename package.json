@@ -1,6 +1,6 @@
 {
   "name": "bootcatch-themes",
-  "version": "1.7.0",
+  "version": "1.8.0",
   "description": "🍕 🍺 Bootcatch is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Bootcatch are released under the MIT license, which means you can use them for any purpose, even for commercial projects.",
   "repository": {
     "type": "git",
@@ -22,7 +22,10 @@
     "bootswatch 3",
     "bootswatch cdn",
     "free-themes-for-bootstrap",
-    "bootstrap-4.3"
+    "bootstrap-4.3",
+    "bootstrap-customized-themes",
+    "creative-bootstrap-templates",
+    "bootcatch-cdn"
   ],
   "author": "Ajay Marathe <0107amar@gmail.com> (http://bootcatch.com/lightly)",
   "license": "MIT",
