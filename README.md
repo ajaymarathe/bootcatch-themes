@@ -1,7 +1,9 @@
 # bootcatch-themes
 
 
-[![NPM](https://img.shields.io/npm/v/bootcatch-themes.svg)](https://www.npmjs.com/package/bootcatch-themes)  [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/bootcatch-themes.svg)](https://www.npmjs.com/package/bootcatch-themes) 
+[![NPM](https://img.shields.io/npm/dt/bootcatch-themes.svg)](https://www.npmjs.com/package/bootcatch-themes) 
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 [![Bootcatch Logo](https://raw.githubusercontent.com/ajaymarathe/image-store/master/bootcatch/bootcatch.png)](http://bootcatch.com/)
 
