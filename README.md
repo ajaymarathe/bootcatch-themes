@@ -17,7 +17,7 @@ Hope it will help you a lot.
 npm i bootcatch-themes
 ```
 
-## Usage:
+## [Usage](http://bootcatch.com/usage):
 
 Below are the few way to integrate bootcatch in your project.
 
@@ -104,6 +104,7 @@ Ajay Marathe
 
 + https://github.com/ajaymarathe
 + http://bootcatch.com
++ http://bootcatch.com/usage
 
 ## Copyright and License
 
