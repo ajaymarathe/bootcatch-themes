@@ -106,6 +106,10 @@ Ajay Marathe
 + http://bootcatch.com
 + http://bootcatch.com/usage
 
+```
+If you like my work then please give ⭐ and do follow me :P
+```
+
 ## Copyright and License
 
 Copyright 2019 [Ajay Marathe](https://github.com/ajaymarathe). Code released under the [MIT](https://github.com/ajaymarathe/Bootcatch-Themes/blob/master/LICENSE) license.
