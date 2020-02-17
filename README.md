@@ -25,7 +25,7 @@ Below are the few way to integrate bootcatch in your project.
 
 ```js
 //add this cdn in your html head.
-<link rel="stylesheet" href="https://unpkg.com/bootcatch-themes@1.8.0/dist/orangely/bootstrap.min.css"  />
+<link rel="stylesheet" href="https://unpkg.com/bootcatch-themes@2.3.0/dist/orangely/bootstrap.min.css"  />
 
 //change the theme name your css will get changed.
 //<link rel="stylesheet" href="https://unpkg.com/bootcatch-themes@<version>/dist/<theme-name>/bootstrap.min.css"  />
