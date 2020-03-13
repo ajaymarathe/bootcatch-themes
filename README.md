@@ -16,7 +16,7 @@ Hope it will help you a lot.
 ## NPM Install
 
 ```js
-npm i bootcatch-themes
+npm i bootcatch-themes --save
 ```
 
 ## [Usage](http://bootcatch.com/usage):
@@ -27,7 +27,7 @@ Below are the few way to integrate bootcatch in your project.
 
 ```js
 //add this cdn in your html head.
-<link rel="stylesheet" href="https://unpkg.com/bootcatch-themes@2.3.0/dist/orangely/bootstrap.min.css"  />
+<link rel="stylesheet" href="https://unpkg.com/bootcatch-themes@2.4.0/dist/orangely/bootstrap.min.css"  />
 
 //change the theme name your css will get changed.
 //<link rel="stylesheet" href="https://unpkg.com/bootcatch-themes@<version>/dist/<theme-name>/bootstrap.min.css"  />
@@ -37,7 +37,7 @@ Below are the few way to integrate bootcatch in your project.
 
 ```js
  //download the css and place it on right path e.g 
- <link rel="stylesheet" type="text/css" href="<you project path>/css/orangely.min.css">
+ <link rel="stylesheet" type="text/css" href="<you project path>/dist/<theme-name>/bootstrap.min.css">
  ```
 
 ### Use in Vue.js.
