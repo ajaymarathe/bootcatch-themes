@@ -1,4 +1,4 @@
-# bootcatch-themes
+# Bootcatch Themes
 
 
 [![NPM](https://img.shields.io/npm/v/bootcatch-themes.svg)](https://www.npmjs.com/package/bootcatch-themes) 
