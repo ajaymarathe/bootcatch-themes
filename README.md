@@ -1,10 +1,10 @@
-# Bootcatch Themes
+# Bootcatch Custom Themes
 
 [![NPM](https://img.shields.io/npm/v/bootcatch-themes.svg)](https://www.npmjs.com/package/bootcatch-themes)
 [![NPM](https://img.shields.io/npm/dt/bootcatch-themes.svg)](https://www.npmjs.com/package/bootcatch-themes)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
-All of the free themes on Bootcatch are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
+Bootcach custom themes are released under the MIT license - So feel free to use anywhere.
 
 [![Bootcatch Logo](https://raw.githubusercontent.com/ajaymarathe/image-store/master/bootcatch/bootcatch.png)](https://bootcatch.com/custom-themes)
 
@@ -22,7 +22,7 @@ npm i bootcatch-themes --save
 
 Below are the few way to integrate Bootcatch-Themes in your project.
 
-### CDN - content delivery network
+## CDN - Content Delivery Network
 
 ```js
 //add this cdn in your html head.
@@ -32,14 +32,14 @@ Below are the few way to integrate Bootcatch-Themes in your project.
 //<link rel="stylesheet" href="https://unpkg.com/bootcatch-themes@<version>/dist/<theme-name>/bootstrap.min.css"  />
 ```
 
-### Use in Html Project
+## Use in Html Project -
 
 ```js
  //download the css and place it on right path e.g 
  <link rel="stylesheet" type="text/css" href="<you project path>/dist/<theme-name>/bootstrap.min.css">
  ```
 
-### Use in Vue.js
+## Use in Vue.js -
 
  ```js
   //In Vue main.js file
@@ -48,7 +48,7 @@ Below are the few way to integrate Bootcatch-Themes in your project.
    
    ```
 
-### Use in Angular
+## Use in Angular -
 
 ```js
   //import in style.scss file
@@ -58,7 +58,7 @@ Below are the few way to integrate Bootcatch-Themes in your project.
  //@import "~bootcatch-themes/dist/<theme-name>/<css-file>"; 
  ```
 
-### Use in React
+## Use in React -
 
  ```js
     import React from 'react';
@@ -69,7 +69,7 @@ Below are the few way to integrate Bootcatch-Themes in your project.
     import "bootcatch-themes/dist/orangely/bootstrap.min.css";
  ```
 
-### Clone the Repository -
+## Clone the Repository -
 
 ```js
 //Just clone the whole repository -
@@ -81,7 +81,7 @@ git clone https://github.com/ajaymarathe/bootcatch-themes.git
 
 Download `bootstrap.css` or `bootstrap.min.css` file associated with the theme and replace it with bootstrap default stylesheet and don't forget to add bootstrap optional dependencies like js file `e.g bootstrap.min.js, jquery & popper.js` etc
 
-### What's included
+## What's included
 
 Within the download you'll find the following directories and files:
 
@@ -115,4 +115,4 @@ If you like my work then please give ⭐ and do follow me :P
 
 ## Copyright and License
 
-Copyright 2018 - 2020 [Ajay Marathe](https://github.com/ajaymarathe). Code released under the [MIT](https://github.com/ajaymarathe/Bootcatch-Themes/blob/master/LICENSE) license.
+Copyright 2018 - 2021 [Ajay Marathe](https://github.com/ajaymarathe). Code released under the [MIT](https://github.com/ajaymarathe/Bootcatch-Themes/blob/master/LICENSE) license.
