@@ -8,7 +8,7 @@ Bootcach custom themes are released under the MIT license - So feel free to use 
 
 [![Bootcatch Logo](https://raw.githubusercontent.com/ajaymarathe/image-store/master/bootcatch/bootcatch.png)](https://bootcatch.com/custom-themes)
 
-Free Custom Bootcath themes for Bootstrap Lover's <3 is based on world most popular framework - Bootstrap, which includes different types of styles, colors and other many extra components for free.
+Free Custom Bootcath themes for Bootstrap Lover's :heart: is based on world most popular framework - Bootstrap, which includes different types of styles, colors and other many extra components for free.
 
 Hope this helps.
 
